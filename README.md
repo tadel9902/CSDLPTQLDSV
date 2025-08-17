@@ -1,9 +1,9 @@
 # Phần Mềm Quản Lý Điểm Sinh Viên Hệ Tín Chỉ - ASP .NET
  Đồ án môn cơ sở dữ liệu phân tán PTITHCM
  # Contributors
- - GVHD: `Lưu Nguyễn Kỳ Thư`
- - AnhJun18 - `Lê Phương Anh`
- - vyhoang0708 - `Lê Hoàng Cẩm Vy`
+ - GVHD: `Lê Hà Thanh`
+ - Tadlee9902 - `Lê Đình Mỹ`
+ 
 
  Phân tán cơ sở dữ liệu QLDSV_HTC gồm 4 server 1 site và 3 site con với điều kiện sau: 
 -	QLDSV được đặt trên server1: chứa thông tin của các sinh viên thuộc khoa công nghệ thông tin
@@ -27,7 +27,7 @@
 
 ~~~~
 ĐỀ TÀI MÔN  CƠ SỞ DỮ LIỆU PHÂN TÁN
-Đề 2. QUẢN LÝ ĐIỂM SINH VIÊN THEO HỆ TÍN CHỈ
+ QUẢN LÝ ĐIỂM SINH VIÊN THEO HỆ TÍN CHỈ
 Cho cơ sở dữ liệu QLDSV_HTC sau:
 a.Khoa :
 FieldName	Type	Constraint
@@ -114,15 +114,7 @@ Yêu cầu: Giả sử  trường có 2 khoa: công nghệ thông tin (CNTT),  v
 Lưu ý: 
 -	Lớp tín chỉ do khoa nào quản lý thì chỉ cho sinh viên khoa đó đăng ký. 
 -	Một giảng viên có thể dạy các lớp tín chỉ thuộc cả 2 khoa
-
-Viết chương trình thực hiện các công việc sau trên từng khoa:
-a. Nhập liệu: gồm các công việc sau
-- Nhập danh mục lớp: Form có các chức năng sau Thêm, Xóa, Ghi, Phục hồi, Thoát; Lớp thuộc khoa nào thì khoa đó nhập. Trên từng khoa ta chỉ thấy được danh sách lớp thuộc khoa đó.
-- Nhập danh sách sinh viên: dưới dạng SubForm. Yêu cầu: giống như lớp
-- Nhập môn học: trên form Nhập môn học có các nút lệnh : Thêm, Xóa,  Ghi, Phục hồi, Thoát
-- Mở Lớp tín chỉ: có các chức năng Thêm, Xóa, Ghi, Phục hồi thông tin của lớp tín chỉ
-- Đăng ký lớp tín chỉ: user nhập vào mã sinh viên của mình, chương trình tự động in ra các thông tin của sinh viên (họ, tên, mã lớp).  Kế tiếp, user nhập vào Niên khóa, Học kỳ, chương trình sẽ tự động lọc ra các lớp tín chỉ đã mở trong niên khóa, học kỳ đó để sinh viên đăng ký (chưa hủy). Dữ liệu in ra gồm : MAMH, TENMH, nhóm, Hoten GV giảng, , số sv đã đăng ký;
-- Nhập điểm:  Điểm thuộc khoa nào thì khoa đó nhập hoặc PGV nhập. User nhập vào Niên khóa, Học kỳ, môn học, nhóm; click nút lệnh Bắt đầu thì chương trình tự động lọc ra các sinh viên có đăng ký trên lớp tín chỉ đó theo dạng sau, sau đó user chỉ nhập điểm vào. 
+ 
 Điểm hết môn = Điểm CC * 0.1 + Điểm GK*0.3+ ĐCK * 0.6 
  
  
@@ -185,15 +177,5 @@ STT	Họ và tên	Học phí	Số tiền đã đóng
 Tổng số sinh viên: ###
 Tổng số tiền đã đóng: #,###,##0 ( tiền chữ) 
 - Bảng điểm tổng kết: Bảng điểm tổng kết của 1 lớp dựa vào mã lớp nhập vào. Điểm thi là điểm lớn nhất của các lần thi. (Cross-Tab)   
-BẢNG ĐIỂM TỔNG KẾT CUỐI KHÓA
-LỚP: XXXXXXXXXXXXX – KHÓA HỌC: 
-KHOA: XXXXXXXXXXX
-MASV-Họ tên	Môn học 1	Môn học 2	Môn học 3	Môn học 4	Môn học n
-					
 
-Ghi chú: Sinh viên tự kiểm tra các ràng buộc có thể có khi viết chương trình
- Lưu ý: Thực hiện việc truy vấn trên SQL Server.
-   	- Chỉ làm việc với các sinh viên còn đang học.
-
-HẾT 
 
