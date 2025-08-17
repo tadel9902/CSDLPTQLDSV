@@ -1,0 +1,185 @@
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\QLDSV_TC.exe.config
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\QLDSV_TC.exe
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\QLDSV_TC.pdb
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.BonusSkins.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Charts.v25.1.Core.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.CodeParser.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Data.Desktop.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Data.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.DataAccess.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Drawing.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Office.v25.1.Core.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Pdf.v25.1.Core.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.PivotGrid.v25.1.Core.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Printing.v25.1.Core.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.RichEdit.v25.1.Core.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.RichEdit.v25.1.Export.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Sparkline.v25.1.Core.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Utils.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Utils.v25.1.UI.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Xpo.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraBars.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraEditors.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraGauges.v25.1.Core.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraGrid.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraLayout.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraPrinting.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraReports.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraReports.v25.1.Extensions.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\System.Memory.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Pdf.v25.1.Drawing.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraTreeList.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraRichEdit.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraVerticalGrid.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.DataVisualization.v25.1.Core.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.DataAccess.v25.1.UI.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraNavBar.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v25.1.Wizard.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraPivotGrid.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v25.1.Extensions.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\System.Buffers.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Images.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraDiagram.v25.1.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Diagram.v25.1.Core.dll
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Charts.v25.1.Core.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Drawing.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Data.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.DataAccess.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Office.v25.1.Core.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Pdf.v25.1.Core.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.PivotGrid.v25.1.Core.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Printing.v25.1.Core.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.RichEdit.v25.1.Core.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Data.Desktop.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Utils.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Utils.v25.1.UI.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Xpo.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraBars.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Sparkline.v25.1.Core.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraEditors.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraGauges.v25.1.Core.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraGrid.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraLayout.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraPrinting.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraReports.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraReports.v25.1.Extensions.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Pdf.v25.1.Drawing.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraTreeList.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraRichEdit.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraVerticalGrid.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.DataAccess.v25.1.UI.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraNavBar.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraCharts.v25.1.Wizard.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraPivotGrid.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.XtraDiagram.v25.1.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\bin\Debug\DevExpress.Diagram.v25.1.Core.xml
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.Properties.Resources.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_BangDiem_TongKet_Lop.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.Report_DS_LopTinChi.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_DS_SV_DangKy_LTC.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_BangDiemLTC.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_HocPhiTheoLop.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_PhieuDiemTheoSinhVien.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmChangePass.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmClass.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmCreateLogin.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmDangKyLTC.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmHocPhi.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmLogin.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmLTC.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmMain.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmMH.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmNhapDiem.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.Xfrm_Report_BangDiemSV.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.Xfrm_ReportDSLTC.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.Xfrm_ReportHocPhi.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmXemDiem.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.XfrmBangDiemLopTinChi.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.XfrmDanhSachSinhVienDangKyLTC.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.Xfrm_BangDiem_TongKetLop.resources
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.exe.licenses
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.exe
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.pdb
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.exe.config
+C:\Users\ACER\Downloads\DEV\QLDSV_TC-main\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.Up2Date
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\bin\Debug\QLDSV_TC.exe.config
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\bin\Debug\QLDSV_TC.exe
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\bin\Debug\QLDSV_TC.pdb
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\bin\Debug\System.Memory.dll
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\bin\Debug\System.Buffers.dll
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.AssemblyReference.cache
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.Properties.Resources.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_BangDiem_TongKet_Lop.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.Report_DS_LopTinChi.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_DS_SV_DangKy_LTC.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_BangDiemLTC.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_HocPhiTheoLop.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_PhieuDiemTheoSinhVien.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmChangePass.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmClass.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmCreateLogin.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmDangKyLTC.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmHocPhi.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmLogin.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmLTC.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmMain.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmMH.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmNhapDiem.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.Xfrm_Report_BangDiemSV.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.Xfrm_ReportDSLTC.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.Xfrm_ReportHocPhi.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmXemDiem.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.XfrmBangDiemLopTinChi.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.XfrmDanhSachSinhVienDangKyLTC.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.Xfrm_BangDiem_TongKetLop.resources
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.GenerateResource.cache
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.exe.licenses
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.CoreCompileInputs.cache
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.Up2Date
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.exe
+C:\Users\THANH NGUYEN\Downloads\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.pdb
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\bin\Debug\QLDSV_TC.exe.config
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\bin\Debug\QLDSV_TC.exe
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\bin\Debug\QLDSV_TC.pdb
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.exe.config
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_BangDiem_TongKet_Lop.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.Report_DS_LopTinChi.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_DS_SV_DangKy_LTC.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_BangDiemLTC.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_HocPhiTheoLop.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.reports.Report_PhieuDiemTheoSinhVien.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmChangePass.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmClass.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmCreateLogin.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmDangKyLTC.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmHocPhi.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmLogin.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmLTC.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmMain.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmMH.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmNhapDiem.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.Xfrm_Report_BangDiemSV.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.Xfrm_ReportDSLTC.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.Xfrm_ReportHocPhi.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.frmXemDiem.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.XfrmBangDiemLopTinChi.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.XfrmDanhSachSinhVienDangKyLTC.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.views.Xfrm_BangDiem_TongKetLop.resources
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.exe.licenses
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.csproj.Up2Date
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.exe
+C:\Users\ASUS\Desktop\QLDSV_TC-main (1)\QLDSV_TC-main\QLDSV_TC\obj\Debug\QLDSV_TC.pdb
